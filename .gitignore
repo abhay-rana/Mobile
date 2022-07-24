@@ -62,9 +62,3 @@ buck-out/
 /ios/Pods/
 /vendor/bundle/
 
-
-# Local Settings
-/android
-/ios
-/android changes/.project
-/android changes/org.eclipse*
