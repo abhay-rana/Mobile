@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "~/*": ["src/*"]
+      // "#/*": ["native-base-theme/*"]
+    }
+  },
+  "exclude": ["native-base-theme"]
+}
